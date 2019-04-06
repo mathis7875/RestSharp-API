@@ -1,0 +1,13 @@
+C:\Projects\Dice_Api_Framework\DiceApiTestFramework\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Projects\Dice_Api_Framework\DiceApiTestFramework\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Projects\Dice_Api_Framework\DiceApiTestFramework\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Dice_Api_Framework\DiceApiTestFramework\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Projects\Dice_Api_Framework\DiceApiTestFramework\ClassLibrary1\bin\Debug\RestSharp.dll
+C:\Projects\Dice_Api_Framework\DiceApiTestFramework\ClassLibrary1\bin\Debug\Newtonsoft.Json.pdb
+C:\Projects\Dice_Api_Framework\DiceApiTestFramework\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Dice_Api_Framework\DiceApiTestFramework\ClassLibrary1\bin\Debug\nunit.framework.pdb
+C:\Projects\Dice_Api_Framework\DiceApiTestFramework\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Projects\Dice_Api_Framework\DiceApiTestFramework\ClassLibrary1\bin\Debug\RestSharp.xml
+C:\Projects\Dice_Api_Framework\DiceApiTestFramework\ClassLibrary1\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+C:\Projects\Dice_Api_Framework\DiceApiTestFramework\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Projects\Dice_Api_Framework\DiceApiTestFramework\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
